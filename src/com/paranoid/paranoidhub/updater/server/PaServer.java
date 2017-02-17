@@ -38,7 +38,7 @@ public class PaServer implements Server {
 
     private static final String TAG = Constants.BASE_TAG + "PaServer";
 
-    private static final String URL = "https://raw.githubusercontent.com/33bca/PAHub-API/marshmallow/%s";
+    private static final String URL = "https://raw.githubusercontent.com/33bca/PAHub-API/nougat-mr1/%s";
 
     private String mDevice = null;
     private String mError = null;
